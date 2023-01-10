@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\bin\Debug\CXCExtraerInfo.exe.config
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\bin\Debug\CXCExtraerInfo.exe
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\bin\Debug\CXCExtraerInfo.pdb
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.exe
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.pdb
