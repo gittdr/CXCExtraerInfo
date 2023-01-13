@@ -9,3 +9,7 @@ C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerI
 C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.csproj.CopyComplete
 C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.exe
 C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.pdb
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\bin\Debug\CXCExtraerInfo.exe.manifest
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\bin\Debug\CXCExtraerInfo.application
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.exe.manifest
+C:\Users\Lenovo\source\repos\CXCExtraerInfo\CXCExtraerInfo\obj\Debug\CXCExtraerInfo.application

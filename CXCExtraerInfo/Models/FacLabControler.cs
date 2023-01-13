@@ -18,6 +18,18 @@ namespace CXCExtraerInfo.Models
         {
             return this.modelFact.GetTotalVcp(folio);
         }
+        public DataTable GetInvoiceHeader(string folio)
+        {
+            return this.modelFact.GetInvoiceHeader(folio);
+        }
+        public DataTable GetInvoiceHeaderRemark(string folio)
+        {
+            return this.modelFact.GetInvoiceHeaderRemark(folio);
+        }
+        public DataTable VerificarCP(string NameFile)
+        {
+            return this.modelFact.VerificarCP(NameFile);
+        }
         public void InsertCp(string NameFile)
         {
             this.modelFact.InsertCp(NameFile);
